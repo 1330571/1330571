@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning software engineering
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=1330571&show_icons=true&count_private=true&theme=radical)](https://github.com/1330571)
+
 <!--
 **1330571/1330571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
