@@ -4,6 +4,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=1330571&show_icons=true&count_private=true&theme=radical)](https://github.com/1330571)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1330571&layout=compact&langs_count=8&theme=dracula)](https://github.com/1330571)
 <!--
 **1330571/1330571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
