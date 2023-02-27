@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student from beihang university master student
-- 🌱 I’m currently learning software engineering
-- 🤔 I’m currently learning rust 
+- 🔭 I’m currently a master student from beihang university  
+- 🌱 I’m currently learning software engineering 
+- 🤔 I’m currently learning rust and English
+
